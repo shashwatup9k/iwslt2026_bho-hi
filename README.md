@@ -6,6 +6,8 @@ Bhojpuri belongs to the Indo-Aryan language group which has the ISO code ``bho``
 
 IWSLT participants may obtain the [Bhojpuri-Hindi speech translation data](https://github.com/panlingua/iwslt2026_bho-hi) without any cost. This corpus consists of 23 hours of audio speech data from the [news domain](https://newsonair.gov.in/) and stories and the translations into Hindi text.
 
+[April 2026 Update:] THE TEST DATA FOR 2026 IS NOW AVAILABLE [HERE](https://github.com/shashwatup9k/iwslt2026_bho-hi/tree/main/test-2026)
+
 ## Structure of the ` Shared Task data`:
 ```
 iwslt2026_bho-hi/
